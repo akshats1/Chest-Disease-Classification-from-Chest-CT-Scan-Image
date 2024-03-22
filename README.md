@@ -1,4 +1,6 @@
 # Chest-Disease-Classification-from-Chest-CT-Scan-Image
+LINK:
+[link](https://drive.google.com/file/d/1z0mreUtRmR-P-magILsDR3T7M6IkGXtY/view)
 
 ## Workflows
 1. Update config.yaml
