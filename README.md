@@ -24,7 +24,7 @@ pip install -r requirements.txt
 ```
 ## Mlflow dagshub connection uri
 ```bash
-MLFLOW_TRACKING_URI=https://dagshub.com/akshats1/MlFlow-Experiment.mlflow \
+MLFLOW_TRACKING_URI=https://dagshub.com/akshats1/Chest-Disease-Classification-from-Chest-CT-Scan-Image.mlflow \
 MLFLOW_TRACKING_USERNAME=akshats1 \
 MLFLOW_TRACKING_PASSWORD=b22094290eabd85478c1d26cbd09b0082f13954e \
 python script.py
@@ -32,9 +32,8 @@ python script.py
 ## RUN from bash terminal
 ```bash
 
-export MLFLOW_TRACKING_URI=https://dagshub.com/akshats1/MlFlow-Experiment.mlflow
+export MLFLOW_TRACKING_URI=https://dagshub.com/akshats1/Chest-Disease-Classification-from-Chest-CT-Scan-Image.mlflow \
+export MLFLOW_TRACKING_USERNAME=akshats1 \
+export MLFLOW_TRACKING_PASSWORD=b22094290eabd85478c1d26cbd09b0082f13954e 
 
-export MLFLOW_TRACKING_USERNAME=akshats1
-
-export MLFLOW_TRACKING_PASSWORD=b22094290eabd85478c1d26cbd09b0082f13954e
 ```
