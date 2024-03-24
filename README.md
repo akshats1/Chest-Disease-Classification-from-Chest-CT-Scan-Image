@@ -37,3 +37,9 @@ export MLFLOW_TRACKING_USERNAME=akshats1 \
 export MLFLOW_TRACKING_PASSWORD=b22094290eabd85478c1d26cbd09b0082f13954e 
 
 ```
+## DVC cmd
+``` bash
+dvc init
+dvc repro
+dvc dag
+```
