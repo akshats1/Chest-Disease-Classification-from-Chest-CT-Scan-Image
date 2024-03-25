@@ -1,4 +1,4 @@
-# Chest-Disease-Classification-from-Chest-CT-Scan-Image
+# Chest-Disease-Classification-from-Chest-CT-Scan-Image [![Trigger Jenkins Job](https://github.com/akshats1/Chest-Disease-Classification-from-Chest-CT-Scan-Image/actions/workflows/main.yaml/badge.svg)](https://github.com/akshats1/Chest-Disease-Classification-from-Chest-CT-Scan-Image/actions/workflows/main.yaml)
 LINK:
 [link](https://drive.google.com/file/d/1z0mreUtRmR-P-magILsDR3T7M6IkGXtY/view)
 
